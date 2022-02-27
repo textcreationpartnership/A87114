@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Princes first fruits: or, A full and perfect relation of two victories obtained by Col. Rich his brigade, together with the forces under the command of Sir Michael Levesey, over some forces landed out of the revolted ships neer Sandown Castle, in the county of Kent, August 10. &amp; 14. Together with a perfect list of the commanders, and officers taken prisoners, and the number of slain on both sides.</title>
+            <author>J. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87114</idno>
+            <idno type="STC">Wing H77</idno>
+            <idno type="STC">Thomason E459_23</idno>
+            <idno type="STC">ESTC R202353</idno>
+            <idno type="STC">ESTC R205150</idno>
+            <idno type="EEBO-CITATION">99862678</idno>
+            <idno type="PROQUEST">99862678</idno>
+            <idno type="VID">162125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162125)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E459[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Princes first fruits: or, A full and perfect relation of two victories obtained by Col. Rich his brigade, together with the forces under the command of Sir Michael Levesey, over some forces landed out of the revolted ships neer Sandown Castle, in the county of Kent, August 10. &amp; 14. Together with a perfect list of the commanders, and officers taken prisoners, and the number of slain on both sides.</title>
+                  <author>J. H.</author>
+                  <author>D. H.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A2r: Your affectionate brother, I.H.</note>
+                  <note>With a letter on A4r signed: D.H.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug. 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rich, Nathaniel, d. 1701.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162125:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Princes firſt Fruits:</hi> OR, A Full and Perfect RELATION OF TWO VICTORIES Obtained by Col. <hi>Rich</hi> his Brigade, together with the Forces under the Command of Sir <hi>Michael Leveſey,</hi> over ſome forces landed out of the Revolted ſhips neer <hi>Sandown</hi> Caſtle, in the County of <hi>KENT, Auguſt</hi> 10. &amp; 14.</p>
+            <p>
+               <hi>TOGETHER WITH</hi> A Perfect Liſt of the Commanders, and Officers taken Priſoners, and the number of ſlain on both ſides.</p>
+            <p>To the three Sons of their Father the D.</p>
+            <q>
+               <l>Put up thy Pipes <hi>Prag. Melancholicus</hi>
+               </l>
+               <l>Bedew thy ſheet with tears: <hi>Elencticus!</hi>
+               </l>
+               <l>Say, Where's thy <hi>Jacobs</hi> ſtaff, what ſtar to foe</l>
+               <l>Did ſtain your glory with this overthrow?</l>
+               <l>Come leave your liſping, and at length be wiſe,</l>
+               <l>The <hi>deſpis'd Cauſe</hi> muſt Conquer all your lies.</l>
+            </q>
+            <p>Printed in the yeer 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162125:2"/>
+            <pb n="1" facs="tcp:162125:2"/>
+            <opener>
+               <salute>Loving Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Prince (whom ſo many of our Pulpits flattered, with the Title of <hi>The pledge of our enſuing happineſſe</hi>) hath given us a taſte of that ſweet fruit, which the Kingdome is likely to gather from his Government, if the Lord in wrath permit him to rule o<g ref="char:EOLhyphen"/>ver us: The yong man hath begun a health to <hi>Englands</hi> happineſs, and the peoples liberty, in a cup of blood. Up<g ref="char:EOLhyphen"/>on Thurſday the 10 of this preſent, his Highneſs, as they call him, (for my part I know not how tall he is) landed a party of ſome 80 of his men, under the Command of one <hi>Aldredge,</hi> a Cheeſe-monger, who lived ſometime in <hi>Bread-ſtreet,</hi> and was Apprentice with Mr. <hi>Rob. Smith;</hi> there might be a kinde of illfavoured policy, in ſending out theſe Water-Rats at the Heels of this Cheeſe-mon<g ref="char:EOLhyphen"/>ger, the ſmell of his old profeſſion might engage them farther with him, then their perſonall valour could carry them on; and indeed it proved ſo, for being landed, they fell upon a ſmall party of Sir <hi>Michaell Lev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſeys</hi> foot who were upon the guard, (at the two houſes, which we call the Half-way houſes, between <hi>Sandwich</hi> and <hi>San<g ref="char:EOLhyphen"/>down,</hi>) beat them off, and took poſſeſſion of the houſes; Sir <hi>Michaels</hi> horſe taking the Alarm, charged the enemy with abundance of Gallantry, routed the Party, wound<g ref="char:EOLhyphen"/>ed many, killed 8. or 9. upon the place, and put the reſt (they having firſt fired the Warriners houſe) to flight. Among the priſoners taken, <hi>Aldredge</hi> was one, who knew me well, and told me he went aboard at <hi>Yarmouth</hi> with Cap. <hi>Iohnſon:</hi> this poor man was miſerably wound<g ref="char:EOLhyphen"/>ed in the back, ſhoulder, and arm, cut in the head, and both hands; yet that party, with whom he unhappily en<g ref="char:EOLhyphen"/>gaged, refuſed to affoard him any ſuccour or means (if
+<pb n="2" facs="tcp:162125:3"/>poſſible) to cure his wounds. Sir <hi>Michael</hi> ſent a Trumpet to <hi>Sandown</hi> Caſtle, acquainting them with his condition, and permitting them, if they pleaſe, to take him in, but they (whoſe mercies are cruelties) would not. This <hi>Al<g ref="char:EOLhyphen"/>dredge</hi> told me, that Prince <hi>Rupert</hi> and the Lord <hi>Gerard</hi> promiſed him to follow, but whether they did or not, he could not ſay: and for valiant Captain <hi>Iohnſon,</hi> if you enquire of him, take it merrily:
+<q>
+                  <l>But Oh <hi>Thom. Johnſon!</hi> Where was he?</l>
+                  <l>Truly where ſafeſt 'twas to be,</l>
+                  <l>Beſet with Bottles, three times three,</l>
+                  <l>Which no body can deny.</l>
+               </q> Had it been a drinking match on ſhoar, the High Admi<g ref="char:EOLhyphen"/>rall himſelf, could not have kept his new Col. aboard; but I am perſwaded the Gentleman is ſick of fighting, and wiſheth himſelf in his Landladies Chimney-corner, at the ſpread Eagle in <hi>Gratious-ſtreet.</hi>
+            </p>
+            <p>I have no more at preſent, but to pray God to open the eyes of the Prince, his <hi>Right, Truſty, and Welbeloved at</hi> London, whether they be Lords, or Common Councel men, that (before it be too late) they may ſee God in the greatneſſe of his power, coming out againſt that party, and breaking them in pieces, ſo as if he did point out with his finger (as he doth to <hi>Babylons</hi> daughter,) that they and their adherents are to be deſtroyed. Farewell.</p>
+            <closer>
+               <signed>Your affectionate Brother, <hi>I. H.</hi>
+               </signed>
+               <dateline>
+                  <hi>Canterbury,</hi> 
+                  <date>Auguſt 11. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:162125:3"/>
+            <head>A true Coppy of a Leter to a friend in <hi>London,</hi> concern<g ref="char:EOLhyphen"/>ing the late fight at <hi>Deale</hi> in Kent, with the number of the ſlaine, and a perfect liſt of the priſoners taken.</head>
+            <opener>
+               <salute>Worthy Friend,</salute>
+            </opener>
+            <p>SInce you and I have wept together, and poured out our ſoules to God in the behalfe of the daughter of our people, I could not but in the day of Ieruſalems rejoycing, call you to rejoyce and be glad with her. It is the ſong of the faithfull in theſe parts, (and I hope it will be ſaid in this day with you alſo) for this is our God, we have waited for him, &amp; he will ſave us: this is the Lord, we have waited for him, we will be glad and rejoyce in his ſalvation. Truly friend, God hath appeared for us from his holy heaven, and our God from the mountaine of his power; clouds and darknes were round about us, even a ſad expectation of a ſecond inſurrection by the ſons of violence amongſt us, and behold light hath ap<g ref="char:EOLhyphen"/>peared to us, &amp; joy to the Tabernacle of the upright. God (though in the wiſdome of his providence, he hath not yet broken and ſcattered the ſhips of our enemies by the eaſt wind) hath wonderfully appeared for us. Yeſterday (being the 14 of this preſent moneth) the Kings Son (the darknes of his Fathers image) landed about 5 or 600 arm<g ref="char:EOLhyphen"/>ed men (fit inſtruments as any in <hi>Colcheſter,</hi> or <hi>Hamiltons</hi> Army, to eſtabliſh the happines of this Kingdome) neer <hi>Sandowne</hi> Caſtle, this morning they ſallied out of the Caſtle (where they ſecured themſelves the laſt night,) &amp; intended to have fallen upon our friends in their quarters at upper <hi>Deale,</hi> and to have ſwallowed them up for break<g ref="char:EOLhyphen"/>faſt. But God (who ordained the earth to help the wo<g ref="char:EOLhyphen"/>man againſt the Dragon) ſent a man before, a Seaman, who coming out of the ſhip, liſted himſelfe under Col. <hi>Rich,</hi> and furniſhed them with intelligence of this de<g ref="char:EOLhyphen"/>ſign;
+<pb n="4" facs="tcp:162125:4"/>this cauſed our friends to draw down al, or the grea<g ref="char:EOLhyphen"/>teſt part of their forces both horſe and foot to lower <hi>Deale</hi> (who elſe had layn ſcattered about the Country 4 or 5 miles in compaſs) it is a ſad truth that our honoured Friends in the L. Gen. his Army, are ſo few, and they ſo weak by reaſon of ſicknes, that ſome companies do not affoard above 40 fighting men; yet the L. (who uſeth to appear then moſt when his power ſhall not be darkened by the ſhadow of an arme of fleſh) put ſuch courage into their hearts, and cloathed their arme with ſuch ſinews, &amp; ſtrength, that they gave them ſuch a blow, as was beyond their own, contrary to their enemies, and above their Friends expectation, the manner briefly thus.</p>
+            <p>Major <hi>Husbands</hi> led the horſe, Lieut. Col. <hi>Axted</hi> the foot, Sir. <hi>Michael Leveſey</hi> charged gallantly with them, before I can tell you they fought, they ran. In the charge Col. <hi>Riches</hi> Quarter Mr. and 3 troopers of ours were ſlaine, 18 private ſouldiers wounded: Major <hi>Husbands</hi> had the heel of his hoot ſhot off, the Lieut. Col. horſe kild under him, but he was ſoon furniſhed with another for the chaſe, in which 180 of the enemy fell (never to riſe more) upon the ſands. <hi>Gibſon</hi> their Major Gen. with 20 more Comman<g ref="char:EOLhyphen"/>ders and Officers, and 73 private ſouldiers taken priſon<g ref="char:EOLhyphen"/>ers, 300 armes, with abundance of brave pillage; the Commanders ſo much gold and ſilver in their pockets, as if they had no need of the Cities 20000 li.</p>
+            <p>I cannot heare that Capt. <hi>Iohnſon,</hi> that famous turne-coat was in this ſervice, as it is ſuppoſed, he is gone (with <hi>Bat<g ref="char:EOLhyphen"/>tens</hi> Knight errantry) a ſheep hunting into <hi>Rumney</hi> Park; this defeat may probably coole the courage of thoſe mutton mungers; and (we hope) be a ſtandard lifted up againſt the violence of your <hi>London</hi> deſigne. I pray in<g ref="char:EOLhyphen"/>forme me by the bea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er how you perceive the Adamites
+<pb n="5" facs="tcp:162125:4"/>affected with this ſignall victory: preſent my love and reſpects to all our cordiall Friends, and be aſſured I am,</p>
+            <closer>
+               <signed>Your much obliged friend to ſerve you, <hi>D. H.</hi>
+               </signed>
+               <dateline>
+                  <hi>Canterbury</hi> 
+                  <date>Auguſt 15. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A perfect Coppy of a liſt of the Commanders and Offiers taken the 14 of Auguſt 1648. neer <hi>Sandown</hi> Caſtle in <hi>Kent,</hi> as it was preſented to his Excellency the Lord General <hi>Fairfax.</hi>
+            </head>
+            <p>MAjor General <hi>Gibſon,</hi> Commander in chief.</p>
+            <p>Sir <hi>Iohn Boyce,</hi> the old Rob Carrier of <hi>Duning<g ref="char:EOLhyphen"/>ton</hi> Caſtle, ſhot in the belly, pricked in the neck, and wounded in the head with the But end of a musket.</p>
+            <list>
+               <item>Sir <hi>Iohn Knotsford.</hi>
+               </item>
+               <item>Colonell <hi>Linſey.</hi>
+               </item>
+               <item>Sir <hi>Iohn Corran.</hi>
+               </item>
+               <item>Sir <hi>Hugh Mahan</hi>—ſometimes ſervant to the Prince.</item>
+               <item>Lieut. Col. <hi>Ball.</hi>
+               </item>
+               <item>Lieut. Col. <hi>Gambling.</hi>
+               </item>
+               <item>Major <hi>Drure.</hi>
+               </item>
+               <item>Major <hi>Burrage.</hi>
+               </item>
+               <item>Capt. <hi>Hull.</hi>
+               </item>
+               <item>Capt. <hi>Right.</hi>
+               </item>
+               <item>Capt. <hi>Bourman.</hi>
+               </item>
+               <item>Capt. <hi>Corpe.</hi>
+               </item>
+               <item>Capt. <hi>Poole.</hi>
+               </item>
+               <pb n="6" facs="tcp:162125:5"/>
+               <item>Mr. <hi>Haſon.</hi>
+               </item>
+               <item>Mr. <hi>Iames.</hi>
+               </item>
+               <item>Mr. <hi>Blix.</hi>
+               </item>
+               <item>Lieut. <hi>Handen</hi> formerly Boſons mate.</item>
+               <item>Lieut. <hi>Caſtate.</hi>
+               </item>
+               <item>Lieut. <hi>Maſhee</hi> an Iriſh man.</item>
+            </list>
+            <p>With 180 killed on the place, 73 private ſouldiers ta<g ref="char:EOLhyphen"/>ken priſoners, and 300 Arms.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
